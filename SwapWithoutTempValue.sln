@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapWithoutTempValue", "SwapWithoutTempValue\SwapWithoutTempValue.csproj", "{369C1DAB-CB6E-4EAD-90B2-6332A25F1AF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapWithoutTempValue.Test", "SwapWithoutTempValue.Test\SwapWithoutTempValue.Test.csproj", "{5730D2DF-D1B7-45BF-9CE8-C9D7F58CFF91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{369C1DAB-CB6E-4EAD-90B2-6332A25F1AF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{369C1DAB-CB6E-4EAD-90B2-6332A25F1AF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{369C1DAB-CB6E-4EAD-90B2-6332A25F1AF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{369C1DAB-CB6E-4EAD-90B2-6332A25F1AF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5730D2DF-D1B7-45BF-9CE8-C9D7F58CFF91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5730D2DF-D1B7-45BF-9CE8-C9D7F58CFF91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5730D2DF-D1B7-45BF-9CE8-C9D7F58CFF91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5730D2DF-D1B7-45BF-9CE8-C9D7F58CFF91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
